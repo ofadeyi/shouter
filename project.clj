@@ -7,4 +7,5 @@
                  [org.clojure/java.jdbc "0.7.0-alpha2"]
                  [org.postgresql/postgresql "42.0.0"]
                  [compojure "1.5.2"]
-                 [ring/ring-jetty-adapter "1.5.0"]])
+                 [ring/ring-jetty-adapter "1.5.0"]
+                 [hiccup "1.0.5"]])
